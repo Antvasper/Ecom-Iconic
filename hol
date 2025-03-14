@@ -1,0 +1,7 @@
+export default function Home() {
+  return (
+    <main>
+      <h1>Hello, world! Your Next.js site is live! 🚀</h1>
+    </main>
+  );
+}
